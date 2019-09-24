@@ -1,2 +1,2 @@
-# Web tech assingments
+# Web tech assignment
 
