@@ -13,7 +13,7 @@ class Rectangle{
 
 	double perimeter()
 	{
-		return 2*(l+b);
+		return 2(*l+b);
 	}
 }
 
